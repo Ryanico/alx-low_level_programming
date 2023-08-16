@@ -1,4 +1,5 @@
 #include "main.h"
+#include <stdio.h>
 /**
  * main - point of entry
  *
@@ -9,7 +10,7 @@ int main(void)
 {
 	int sum, num;
 
-	for (num = 0; num < 1024; mum++)
+	for (num = 0; num < 1024; num++)
 	{
 		if ((num % 3 == 0) || (num % 5 == 0))
 			sum += num;
