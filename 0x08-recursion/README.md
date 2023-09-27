@@ -1,5 +1,5 @@
 A recursion project on how to:
-1. print a string using
+1. print a string
 2. print a string in reverse
 3. print the length of a string
 4. print and return the factorial of a given number
